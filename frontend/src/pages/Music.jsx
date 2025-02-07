@@ -15,7 +15,7 @@ const Music = () => {
         </div>
       </section>
 
-      <section className="w-full py-20 bg-gray-100">
+      <section className="w-full bg-gray-100">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold text-gray-800 text-center mb-8">
             About KORASHE

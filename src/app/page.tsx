@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 
 export default function Home() {
   return (
-    <div className="bg-[#212121]">
+    <div className="bg-[#151515]">
       <Navbar />
       <HeroSection />
       <FeaturedTime />
